@@ -7,7 +7,7 @@ Release:          1
 Summary:          Parallel processing of R code on machines with multiple cores or CPUs
 Group:            Sciences/Mathematics
 License:          GPL-2
-URL:              None
+URL:              http://cran.r-project.org/web/packages/multicore/index.html
 Source0:          http://cran.r-project.org/src/contrib/Archive/multicore/multicore_0.1-6.tar.gz
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 
