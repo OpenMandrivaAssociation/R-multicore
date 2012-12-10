@@ -41,3 +41,15 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/R
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/libs
+
+
+%changelog
+* Thu Feb 16 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.1_7-1
++ Revision: 775011
+- Update to latest version
+
+* Thu Feb 16 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.1_6-1
++ Revision: 774771
+- Import R-multicore
+- Import R-multicore
+
