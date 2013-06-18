@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.1_7
-Release:          1
+Release:          2
 Summary:          Parallel processing of R code on machines with multiple cores or CPUs
 Group:            Sciences/Mathematics
 License:          GPL-2
